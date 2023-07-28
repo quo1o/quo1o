@@ -3,8 +3,7 @@
 <h1 align="left">:wave: Hello there! I'm Artem Rusinov</h1>
 
 <div>
-<a href="https://discord.gg/VqubFtXM"><img alt="Discord Online" src="https://img.shields.io/discord/1015937618648772658.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2"></a>
-<a href="https://www.youtube.com/channel/UCYimO7BCUwdGiaCXlwG-rLw"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCYimO7BCUwdGiaCXlwG-rLw"></a>
+<a href="https://t.me/https://t.me/eanddq"><img alt="Telegram Online" src="https://img.shields.io/discord/1015937618648772658.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2"></a>
 <a href="https://www.twitch.tv/siberiacancode/">
 <img alt="Twitch Status" src="https://img.shields.io/twitch/status/siberiacancode?style=social"></a>
 </div>
