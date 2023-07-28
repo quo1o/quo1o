@@ -2,11 +2,7 @@
 
 <h1 align="left">:wave: Hello there! I'm Artem Rusinov</h1>
 
-<div>
-<a href="https://t.me/https://t.me/eanddq"><img alt="Telegram Online" src="https://img.shields.io/discord/1015937618648772658.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2"></a>
-<a href="https://www.twitch.tv/siberiacancode/">
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/siberiacancode?style=social"></a>
-</div>
+
 
 <br>
 
@@ -17,14 +13,6 @@ Frontend Developer from Warsaw
 
 <br>
 
-## [🧊 Siberia Can Code 📦 Packages](https://github.com/siberiacancode)
-
-- ### [🎉 Mock Config Server](https://www.npmjs.com/package/mock-config-server)
-  tool that easily and quickly imitates server operation, create full fake api in few steps
-- ### [🔑 React Google ReCaptcha Ultimate](https://github.com/siberiacancode/react-google-recaptcha-ultimate)
-  tool that easily and quickly add Google ReCaptcha for your website or application
-- ### [♻️ Lodash Omitdeep](https://www.npmjs.com/package/lodash-omitdeep)
-  lodash-omitdeep allows you to execute lodash omit, omitBy functions recursively
 
 <br>
 
