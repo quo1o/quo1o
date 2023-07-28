@@ -311,11 +311,7 @@ Frontend Developer from Warsaw
 
 ## ☄️ Contact
 
-- :popcorn: &nbsp;**[Youtube](https://www.youtube.com/c/SIBERIACANCODE)**
-- :popcorn: &nbsp;**[Twitch](https://www.twitch.tv/siberiacancode)**
-- :bird: &nbsp;**[VK](https://vk.com/siberiacancode)**
-- :airplane: &nbsp;**[Telegram](https://t.me/siberiacancode)**
-- :robot: &nbsp;**[Discord](https://discord.gg/UsM4F9h6hn)**
-- :comet: &nbsp;**[Github](https://github.com/debabin)**
+- :airplane: &nbsp;**[Telegram](https://t.me/eanddq)**
+- :comet: &nbsp;**[Github](https://github.com/quo1o)**
 
 <br>
