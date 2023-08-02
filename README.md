@@ -88,6 +88,13 @@ Frontend Developer from Warsaw
       </a>
       <br>docker
     </td>
+    
+    <td align="center" width="110" height="90"> 
+      <a href="#stack" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
+      </a>
+      <br>bash
+    </td>
   </tr> 
 </table>
 
