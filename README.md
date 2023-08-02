@@ -33,13 +33,6 @@ Frontend Developer from Warsaw
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
       </a>
       <br>typescript
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="typescript" />
-      </a>
-      <br>c#
-    </td>
         <td align="center" width="110" height="90">
       <a href="#stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
@@ -88,7 +81,6 @@ Frontend Developer from Warsaw
       </a>
       <br>docker
     </td>
-    
     <td align="center" width="110" height="90"> 
       <a href="#stack" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
@@ -275,6 +267,13 @@ Frontend Developer from Warsaw
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
       </a>
       <br>Node JS
+    </td>
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="typescript" />
+      </a>
+      <br>c#
     </td>
     <td align="center" width="110" height="90">
       <a href="#stack" >
