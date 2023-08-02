@@ -273,7 +273,7 @@ Frontend Developer from Warsaw
       <a href="#stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="typescript" />
       </a>
-      <br>c#
+      <br>C#
     </td>
     <td align="center" width="110" height="90">
       <a href="#stack" >
