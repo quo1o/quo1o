@@ -83,7 +83,7 @@ Frontend Developer from Warsaw
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#stack" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="36" height="36" alt="bash" />
       </a>
       <br>bash
     </td>
@@ -271,7 +271,7 @@ Frontend Developer from Warsaw
     </td>
     <td align="center" width="110" height="90">
       <a href="#stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="typescript" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="csharp" />
       </a>
       <br>C#
     </td>
