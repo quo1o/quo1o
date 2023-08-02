@@ -323,7 +323,7 @@ Frontend Developer from Warsaw
 
 ## ☄️ Contact
 
-- :airplane: &nbsp;**[Telegram](https://t.me/eanddq)**
+- :airplane: &nbsp;**[Telegram](https://t.me/quo1o)**
 - :comet: &nbsp;**[Github](https://github.com/quo1o)**
 
 <br>
