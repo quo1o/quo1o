@@ -318,6 +318,7 @@ Frontend Developer from Warsaw
       </a>
       <br>electron
     </td>
+    
   </tr> 
 </table>
 
